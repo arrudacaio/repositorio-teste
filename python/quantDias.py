@@ -7,4 +7,4 @@ dias = resto - (meses*30)
 
 print(anos,"ano(s)")
 print(meses,"mes(es)")
-print(dias,"dia(s)")
+print(dias,"dia(s)") 
