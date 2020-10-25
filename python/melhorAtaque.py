@@ -18,7 +18,7 @@ for i in range(quant):
     cont += 1
     melhor.append(times[i]) 
 
-print(f"Time(s) com melhor ataque ({maior} gol(s)):")
+print(f"Time(s) com melhor ataque ({maior} gol(s)): ")
 
 if cont == 1:
   print(melhor[0])
