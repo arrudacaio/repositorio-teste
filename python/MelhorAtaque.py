@@ -18,7 +18,7 @@ for i in range(quant):
     cont += 1
     melhor.append(times[i]) 
 
-print(f"Time(s) com melhor ataque ({maior} gol(s)): ")
+print(f"Time(s) com melhor ataque ({maior} gol(s)):")
 
 if cont == 1:
   print(melhor[0])
@@ -35,4 +35,4 @@ for i in gols:
 
 media = soma/(len(gols))
 
-print(f"\nMédia de gols marcados: {media:.1f} ")
+print(f"\nMédia de gols marcados: {media:.2f}")
