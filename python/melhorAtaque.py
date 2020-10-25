@@ -35,4 +35,4 @@ for i in gols:
 
 media = soma/(len(gols))
 
-print(f"\nMédia de gols marcados: {media:.1f}")
+print(f"\nMédia de gols marcados: {media:.1f} ")
