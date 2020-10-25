@@ -10,4 +10,4 @@ for i in range(quant):
   
 porcentagem = (cont/quant) * 100
 
-print(f"{cont} ({porcentagem:.1f}%) ")
+print(f"{cont} ({porcentagem:.1f}%)")
