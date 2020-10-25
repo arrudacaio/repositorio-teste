@@ -1,5 +1,4 @@
 cont = 0
-
 divisivel = int(input())
 quant = int(input())
 
